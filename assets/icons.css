@@ -1,0 +1,136 @@
+@font-face{font-family:Phosphor;src:url(icons.woff2) format("woff2");font-display:block}.ph{font-family:Phosphor!important;font-weight:normal;font-style:normal;line-height:1;-webkit-font-smoothing:antialiased}
+.ph-align-left:before {
+  content: "\e50e";
+}
+.ph-arrow-left:before {
+  content: "\e058";
+}
+.ph-arrow-right:before {
+  content: "\e06c";
+}
+.ph-arrow-up-right:before {
+  content: "\e092";
+}
+.ph-atom:before {
+  content: "\e5e4";
+}
+.ph-bank:before {
+  content: "\e0b4";
+}
+.ph-book-open:before {
+  content: "\e0e6";
+}
+.ph-bookmark:before {
+  content: "\e0e8";
+}
+.ph-books:before {
+  content: "\e758";
+}
+.ph-calculator:before {
+  content: "\e538";
+}
+.ph-calendar-blank:before {
+  content: "\e10a";
+}
+.ph-caret-down:before {
+  content: "\e136";
+}
+.ph-caret-right:before {
+  content: "\e13a";
+}
+.ph-chart-bar:before {
+  content: "\e150";
+}
+.ph-chart-line:before {
+  content: "\e154";
+}
+.ph-coins:before {
+  content: "\e78e";
+}
+.ph-columns:before {
+  content: "\e546";
+}
+.ph-compass:before {
+  content: "\e1c8";
+}
+.ph-crosshair:before {
+  content: "\e1d6";
+}
+.ph-flag:before {
+  content: "\e244";
+}
+.ph-flask:before {
+  content: "\e79e";
+}
+.ph-funnel:before {
+  content: "\e266";
+}
+.ph-globe:before {
+  content: "\e288";
+}
+.ph-globe-hemisphere-east:before {
+  content: "\e28a";
+}
+.ph-globe-simple:before {
+  content: "\e28e";
+}
+.ph-highlighter:before {
+  content: "\ec76";
+}
+.ph-hourglass:before {
+  content: "\e2b2";
+}
+.ph-identification-card:before {
+  content: "\e2c8";
+}
+.ph-leaf:before {
+  content: "\e2da";
+}
+.ph-list:before {
+  content: "\e2f0";
+}
+.ph-magnifying-glass:before {
+  content: "\e30c";
+}
+.ph-map-pin:before {
+  content: "\e316";
+}
+.ph-map-trifold:before {
+  content: "\e31a";
+}
+.ph-mountains:before {
+  content: "\e7ae";
+}
+.ph-newspaper:before {
+  content: "\e344";
+}
+.ph-plant:before {
+  content: "\ebae";
+}
+.ph-rows:before {
+  content: "\e5a2";
+}
+.ph-scales:before {
+  content: "\e750";
+}
+.ph-scroll:before {
+  content: "\eb7a";
+}
+.ph-squares-four:before {
+  content: "\e464";
+}
+.ph-stack:before {
+  content: "\e466";
+}
+.ph-table:before {
+  content: "\e476";
+}
+.ph-tree-structure:before {
+  content: "\e67c";
+}
+.ph-wave-sine:before {
+  content: "\ea9a";
+}
+.ph-x:before {
+  content: "\e4f6";
+}
